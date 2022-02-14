@@ -76,5 +76,5 @@ Please ensure that you always execute the automation using **Execute Step** [1] 
 
 #### SAP GUI Shortcut File
 
-Depending on your SAP GUI configuration, the user name may be prefilled when opening the SAP GUI Shortcut File. Please change the user to the reserved P-User, e.g. P01234567890.<br><br>
+Depending on your SAP GUI configuration, the user name may be prefilled when opening the SAP GUI Shortcut File. Please change the user to the reserved user, e.g. USERXX.<br><br>
 ![](images/CIAS-11.png)<br><br>
