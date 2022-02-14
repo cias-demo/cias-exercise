@@ -12,7 +12,7 @@ Congratulations! You have successfully reserved your hands-on user.<br><br><br><
 
 ## Creating the Workflow Instance
 
-Open the [**CIAS Planning UI**](https://consarea-applications.cias-preprod.cfapps.eu10.hana.ondemand.com/#/deeplink/SOLUTION_CIAS_DEMO/SCENARIO_CIAS_CCM_HANDSON/com.sap.btp.abap.ccm.setup.handson) in Google Chrome and logon with the reserved user from the previous exercise [Reserving an Exercise User](#reserving-an-exercise-user).<br><br>
+Open the [**CIAS Planning UI**](https://cias-demo.cias-preprod.cfapps.eu10.hana.ondemand.com/#/deeplink/SOLUTION_CIAS_DEMO/SCENARIO_CIAS_CCM_HANDSON/com.sap.btp.abap.ccm.setup.handson) in Google Chrome and logon with the reserved user from the previous exercise [Reserving an Exercise User](#reserving-an-exercise-user).<br><br>
 The **Configuring the ABAP Environment to Use the Custom Code Migration App** opens using a deep link. Choose **Generate Workflow**.<br><br>
 ![](images/Planning-UI-01.png)<br><br>
 The **System Details Not Filled** dialog appears. Choose **Proceed**.<br><br>
