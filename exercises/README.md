@@ -39,21 +39,12 @@ In the previous exercise [Creating the Workflow Instance](#creating-the-workflow
 As a first task the **Disclaimer** appears on the screen. Read it carefully and choose **I Agree** to continue.<br><br>
 ![](images/Workflow-01.png)<br><br>
 The **Confirm Systems** dialog appears.<br><br>
-For the **Hands-on System**, enter the **Exercise Number** you received in the first exercise [Reserving an Exercise User](#reserving-an-exercise-user) to the field **Exercise Number**.
-
->**IMPORTANT**
->
-> Please be accurate at this point and insert a two digit number. Replace **XX** with your number, for example with **01**. Otherwise, you will not be able to complete the hands-on successfully.
-
-<br>
-
-![](images/Workflow-02.png)<br><br>
 Continue to the **SAP Business Suite System** and choose the option **Via Host**.
-Enter **ccm-backend.demo.consarea.com** as **Central Instance Host**, **001** as **Client**, **ABA** as **SID** (System ID) and **00** as **Central Instance Number**.<br><br>
+Enter **handson.cias.consarea.com** as **Central Instance Host**, **001** as **Client**, **ABA** as **SID** (System ID) and **00** as **Central Instance Number**.<br><br>
 ![](images/Workflow-03.png)<br><br>
 Continue to the **SAP Business Technology Platform** system and enter for the field **Global Account URL** the value **https://cockpit.eu10.hana.ondemand.com/cockpit/#/globalaccount/9930f9c2-22fd-4f27-8237-fa1dc2320e1b**.<br><br>
 ![](images/Workflow-04.png)<br><br>
-Switch to the **Cloud Connector** system and enter **https://cloudconnector.demo.consarea.com:8443** into the field **Access URL**.<br><br>
+Switch to the **Cloud Connector** system and enter **https://handson.cias.consarea.com:8443** into the field **Access URL**.<br><br>
 
 >**HINT**
 >
