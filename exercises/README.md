@@ -39,12 +39,9 @@ In the previous exercise [Creating the Workflow Instance](#creating-the-workflow
 As a first task the **Disclaimer** appears on the screen. Read it carefully and choose **I Agree** to continue.<br><br>
 ![](images/Workflow-01.png)<br><br>
 The **Confirm Systems** dialog appears.<br><br>
-![](images/Workflow-03.png)<br><br>
 Continue to the **SAP BTP Global Account** system and enter for the field **Access URL** the value **https://cockpit.eu10.hana.ondemand.com/cockpit/#/globalaccount/9930f9c2-22fd-4f27-8237-fa1dc2320e1b**.<br><br>
 ![](images/Workflow-04.png)<br><br>
 Switch to the **Cloud Connector** system and enter **https://handson.cias.consarea.com:8443** into the field **Access URL**.<br><br>
-Continue to the **SAP ERP System** and choose the option **Via Host**.
-Enter **handson.cias.consarea.com** as **Central Instance Host**, **001** as **Client**, **ABA** as **SID** (System ID) and **00** as **Central Instance Number**.<br><br>
 
 >**HINT**
 >
@@ -53,6 +50,9 @@ Enter **handson.cias.consarea.com** as **Central Instance Host**, **001** as **C
 <br>
 
 ![](images/Workflow-05.png)<br><br>
+Continue to the **SAP ERP System** and choose the option **Via Host**.
+Enter **handson.cias.consarea.com** as **Central Instance Host**, **001** as **Client**, **ABA** as **SID** (System ID) and **00** as **Central Instance Number**.<br><br>
+![](images/Workflow-03.png)<br><br>
 Choose **Confirm Systems** to continue.<br><br>
 ![](images/Workflow-06.png)<br><br>
 The **Assign Users To Required Roles** dialog appears. Choose **Assign all roles to my user** and confirm the dialog afterwards with **Confirm Role Assignment**.<br><br>
