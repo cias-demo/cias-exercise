@@ -39,7 +39,7 @@ In the previous exercise [Creating the Workflow Instance](#creating-the-workflow
 As a first task the **Disclaimer** appears on the screen. Read it carefully and choose **I Agree** to continue.<br><br>
 ![](images/Workflow-01.png)<br><br>
 The **Confirm Systems** dialog appears.<br><br>
-Continue to the **SAP Business Suite System** and choose the option **Via Host**.
+Continue to the **SAP ERP System** and choose the option **Via Host**.
 Enter **handson.cias.consarea.com** as **Central Instance Host**, **001** as **Client**, **ABA** as **SID** (System ID) and **00** as **Central Instance Number**.<br><br>
 ![](images/Workflow-03.png)<br><br>
 Continue to the **SAP Business Technology Platform** system and enter for the field **Global Account URL** the value **https://cockpit.eu10.hana.ondemand.com/cockpit/#/globalaccount/9930f9c2-22fd-4f27-8237-fa1dc2320e1b**.<br><br>
